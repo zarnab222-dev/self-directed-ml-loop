@@ -20,6 +20,7 @@ skills/
   learning-loop-storm/   full research refresh -> pedagogy contract
   storm/                 general-purpose grounded-research skill (dependency)
 START-HERE.md            setup + the one-time diagnostic prompt
+EXAMPLE-RESOURCES.md     generic math-foundations starting points (swap for your own)
 ```
 
 None of these contain anyone's personal curriculum, diagnostic answers, or

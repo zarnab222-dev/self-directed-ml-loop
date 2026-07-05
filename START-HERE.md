@@ -87,7 +87,9 @@ makes the loop *yours* instead of a generic tutor.
 
 - `/next-brick` — what to do right now, one atomic step.
 - `/check` — after you've done it, verify whether it actually counts.
-- `/study-scout` — stuck on a specific concept, want resources for it.
+- `/study-scout` — stuck on a specific concept, want resources for it. (For a
+  generic cold-start on the math foundations before the loop gets going, see
+  [EXAMPLE-RESOURCES.md](EXAMPLE-RESOURCES.md) — swap in your own as you go.)
 - `/learning-stack-audit` — run weekly (or whenever it feels like drift) to
   check you're still grinding, not just optimizing process.
 
